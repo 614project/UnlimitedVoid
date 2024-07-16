@@ -1,15 +1,17 @@
 # Unlimited Void
 ![screenshot](./thumbnail.png)
-¹«·®°øÃ³ ÇÁ·Î±×·¥.
-## ÇÏ´ÂÀÏ
-ÆÑÅä¸®¾óÀ» ³¡¾øÀÌ °è»êÇÏ¿© ÄÄÇ»ÅÍ¸¦ ¹«ÇÑÈ÷ °¥±ÅÁÝ´Ï´Ù.  
-Á¦ÇÑ½Ã°£: 6145020ÃÊ (±âº»°ª)  
-## ÆÄ¶ó¹ÌÅÍ
-- ``-T (½Ã°£)``,``-time (½Ã°£)`` : Á¦ÇÑ½Ã°£ ¼³Á¤. (½Ã°£Àº À¯¸®¼ö)
-- ``-L (ko ¶Ç´Â en)``,``--language (korean ¶Ç´Â english)`` : ¾ð¾î ¼³Á¤.
-- ``-?`` , ``--help`` : µµ¿ò¸» Ç¥½Ã.
-## ¿Ö¸¸µë
-·º ¸¸µå´Â ÇÁ·Î±×·¥ÀÌ ÇÊ¿äÇØ¼­.
-## µð¹ö±ë
-vs2022 ¿¡¼­ .sln ¿­°í F5.  
-***Æ¯È÷ Release·Î µð¹ö±ëÇÏ¸é È¿°ú°¡ ¸Å¿ì ÁÁÀ½!!!!!!***
+ë¬´ëŸ‰ê³µì²˜ í”„ë¡œê·¸ëž¨.
+## í•˜ëŠ”ì¼
+íŒ©í† ë¦¬ì–¼ì„ ëì—†ì´ ê³„ì‚°í•˜ì—¬ ì»´í“¨í„°ë¥¼ ë¬´í•œížˆ ê°ˆê¶ˆì¤ë‹ˆë‹¤.  
+ì œí•œì‹œê°„: 6145020ì´ˆ (ê¸°ë³¸ê°’)  
+## íŒŒë¼ë¯¸í„°
+- ``-T (ì‹œê°„)``,``-time (ì‹œê°„)`` : ì œí•œì‹œê°„ ì„¤ì •. (ì‹œê°„ì€ ìœ ë¦¬ìˆ˜)
+- ``-L (ko ë˜ëŠ” en)``,``--language (korean ë˜ëŠ” english)`` : ì–¸ì–´ ì„¤ì •.
+- ``-?`` , ``--help`` : ë„ì›€ë§ í‘œì‹œ.
+## ì™œë§Œë“¬
+ë ‰ ë§Œë“œëŠ” í”„ë¡œê·¸ëž¨ì´ í•„ìš”í•´ì„œ.
+## ë””ë²„ê¹…
+vs2022 ì—ì„œ .sln ì—´ê³  F5.  
+***íŠ¹ížˆ Releaseë¡œ ë””ë²„ê¹…í•˜ë©´ íš¨ê³¼ê°€ ë§¤ìš° ì¢‹ìŒ!!!!!!***
+## Suno AI
+https://github.com/user-attachments/assets/de244231-0d91-429b-9ed4-821e3b010a6e
